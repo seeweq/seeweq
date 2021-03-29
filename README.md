@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @seeweq
-- 👀 I’m interested in data Science 
+- 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on big python and java projects the makes the world a better place
 - 📫 How to reach me sivuyisiwet34@gmail.com
